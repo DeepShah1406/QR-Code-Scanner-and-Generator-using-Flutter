@@ -11,9 +11,7 @@ A Flutter application that allows users to scan and generate QR codes. This app 
 
 ## Screenshots
 
-<img src="assets/Screenshot_20240818_214034.png" width="30%" alt="QR Code Application" />
-<img src="assets/Screenshot_20240818_214714.jpg" width="30%" alt="QR Code Scanner" />
-<img src="assets/Screenshot_20240818_214223.png" width="30%" alt="QR Code Generator" />
+<img src="assets/Screenshot_20240818_214034.png" width="30%" alt="QR Code Application" /> <img src="assets/Screenshot_20240818_214714.jpg" width="30%" alt="QR Code Scanner" /> <img src="assets/Screenshot_20240818_214223.png" width="30%" alt="QR Code Generator" />
 
 ## Dependencies
 
