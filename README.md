@@ -1,4 +1,4 @@
-# QR Code Scanner and Generator
+# ***QR Code Scanner and Generator***
 
 A Flutter application that allows users to scan and generate QR codes. This app provides a user-friendly interface to either scan QR codes using your device's camera or generate QR codes from text input. It also includes functionality to copy scanned QR code data to the clipboard.
 
