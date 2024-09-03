@@ -41,7 +41,7 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 This project is licensed under the MIT License. See the [LICENSE](https://github.com/DeepShah1406/SCT-AD-4/blob/master/LICENSE) file for details.
 
 ## Contact
-- E-Mail ID : [Deep Shah](shahdeep1406@gmail.com)
+- E-Mail ID : [Deep Shah](mailto:shahdeep1406@gmail.com)
 - GitHub : [Deep Shah](https://github.com/DeepShah1406)
 
 ## Acknowledgements
